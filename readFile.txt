@@ -1,0 +1,24 @@
+hello world!
+Scala programming 
+Functional programming
+counting words
+Anonymous functions 
+read read read
+Tom clancy's Rainbow Six Siege
+Battlefield
+NieR Automata
+Metal Gear Rising 
+Kena Bridge of Spirits
+Age of Empires
+Genshin Impact
+Dragon Ball Z Kakarot
+Dragon Ball Z Budokai Tenkaichi 3
+Tom Clancy's Ghost Recon Wildlands
+Sea of Thieves
+Unravel
+Call of Duty
+Prince of Persia
+Assassins Creed
+
+Computer Science
+Data structures and Algorithms, Software Engineering, Operating Systems, Machine Learning, Mathematical Methods, Linear Algebra
