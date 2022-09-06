@@ -1,9 +1,9 @@
 object bank_account extends App{
 
     class Account(id: String, n: Int, b: Double){
-        def nic = id;
-        def acc_number = n;
-        def balance = b;
+        var nic = id;
+        var acc_number = n;
+        var balance = b;
 
         override def toString(): String = "[" + nic + " : " + acc_number +" : " + balance + "]";
 
