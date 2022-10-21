@@ -22,11 +22,11 @@
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_2\target\scala-2.13\classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.6.0:compile for Scala 2.13.0[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1d9fe722 for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 3b628d7 for Scala compiler version 2.13.0[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	C:\Users\RamithRodrigo\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.0\scala-library-2.13.0.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_2\target\scala-2.13\classes;C:\Users\RamithRodrigo\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\com\typesafe\akka\akka-actor_2.13\2.6.8\akka-actor_2.13-2.6.8.jar;C:\Users\RamithRodrigo\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\com\typesafe\config\1.4.0\config-1.4.0.jar;C:\Users\RamithRodrigo\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-java8-compat_2.13\0.9.0\scala-java8-compat_2.13-0.9.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.1454319 s[0m
-[0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m

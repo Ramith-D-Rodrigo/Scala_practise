@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\myakka_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CommunicationSystem$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\classes\CommunicationSystem$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CommunicationSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\classes\CommunicationSystem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\classes\MyExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\classes\MyExample$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\classes\MyExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyTimer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\classes\MyTimer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyTimer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\target\scala-2.13\classes\MyTimer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

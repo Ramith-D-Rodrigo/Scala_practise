@@ -11,8 +11,8 @@ case class Message(op:String, x:Int, y:Int)
 
 class MsgSystem extends Actor {
     def receive = {
-        case Message("+", x:Int, y:Int) => sender ! x + y
-        case Message("*", x:Int, y:Int) => sender ! x * y
+        case Message("+", x:Int, y:Int) => {println(self); sender ! x + y}
+        case Message("*", x:Int, y:Int) => {println(self); sender ! x * y}
         case Message("-", x:Int, y:Int) => sender ! x - y
         case Message("/", x:Int, y:Int) => sender ! x / y
         case _ => println("Known Message?")

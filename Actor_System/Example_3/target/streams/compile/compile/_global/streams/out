@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mE:\Campus stuff\Scala\Scala_practise\Actor_System\Example_3\MyExample.scala:13:32: not enough arguments for method apply: (n: Int, him: akka.actor.ActorRef)MyTimer in object MyTimer.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter him.[0m
+[0m[[0m[31merror[0m] [0m[0m                other ! MyTimer(n-1)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

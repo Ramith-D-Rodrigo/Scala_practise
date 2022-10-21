@@ -1,10 +1,20 @@
-[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = E:\Campus stuff\Scala\Scala_practise\Actor_System\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_1\target\scala-2.13\classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$myActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$myActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$myActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$myActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MyAkka.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$$anonfun$receive$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: E:\Campus stuff\Scala\Scala_practise\Actor_System\target\scala-2.13\classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$myActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$myActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyAkka$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: E:\Campus stuff\Scala\Scala_practise\Actor_System\Example_1\target\scala-2.13\classes.bak[0m
